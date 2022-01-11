@@ -1,7 +1,1 @@
-ajshdgasdhglaksdhasdas
-asdas
-dasd
-asd
-asf
-sdgsdgsdgssdg
-gsdgsdsggsgsd
+I have learned a lot in Hadoop and hadoop offers a scalable, flexible and reliable distributed computing big data framework for a cluster of systems with storage capacity and local computing power by leveraging commodity hardware. Hadoop makes it simple to take advantage of all of a cluster server's storage and processing power, as well as to conduct distributed operations on enormous data sets. Hadoop serves as a foundation for the creation of additional services and applications. Hadoop follows a Master Slave architecture for the transformation and analysis of large datasets using Hadoop MapReduce paradigm.
